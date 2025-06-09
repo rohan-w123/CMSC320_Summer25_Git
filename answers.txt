@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git because Git has many functionalities such as version control which makes it easier for a user to revert a files back to previous versions if something breaks. This also means that the user has a record of changes made which can help the user keep track of their progress. Another reason why we might consider using Git is because it is great for collaboration. Multiple users can collaborate on a project by pushing and modifying existing files without the concern of overwriting other users' work. With just a few terminal commands users can push files to a git repository which highlights just how easy it is to use Git.
+
+
