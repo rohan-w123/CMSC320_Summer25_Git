@@ -14,3 +14,8 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: The first difference between merging and rebasing is that they have different terminal commands. Also merging merges two branches while rebasing essentially replays the changes made from one branch onto another branch.
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about Data Science and also improving my ability to clean data and create datasets that can be used by ML models to identify patterns.
+
