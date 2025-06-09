@@ -7,5 +7,10 @@ Answer: We might consider using Git because Git has many functionalities such as
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data Science can be applied to the field of Artificial Intelligence(AI). One area of AI is Machine Learning where Data Science is used to help clean data and create datasets from which ML models can use to identify patterns. 
+Answer: Data Science can be applied to the field of Artificial Intelligence(AI). One area of AI is Machine Learning where Data Science is used to help clean data and create datasets from which ML models can use to identify patterns.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The first difference between merging and rebasing is that they have different terminal commands. Also merging merges two branches while rebasing essentially replays the changes made from one branch onto another branch.
 
